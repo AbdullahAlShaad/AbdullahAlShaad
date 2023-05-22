@@ -1,33 +1,31 @@
 
+### Hey I'm Shaad 👋, 
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Shaad!)](https://git.io/typing-svg)
 
-* Software Engineer at AppsCode Inc.
-* Developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
-* **Technical focus** - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Redis :zap:  Go :star: Vault :gem: Cluster-API :anchor:
-* **How to reach me** 📫 - shoot an email at <b>abdullah.alshaad@gmail.com</b>
+- 🔭 I’m currently working at [AppsCode](https://www.appscode.com/) as a Software Engineer Engineer
+- 👯 I'm developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
+- 💬 Technical focus - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Redis :zap:  Go :star: Vault :gem: Cluster-API :anchor:
+- 📫 How to reach me: shoot an email at <b>abdullah.alshaad@gmail.com</b>
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
-        <img width=""auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Shaad7.Shaad7" />
+        <img width="auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Shaad7.Shaad7" />
  </a>
   <a href="https://visitor-badge.laobi.icu/">
         <img width="auto"  alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
  </a>
 
-### Stats
 
-<p>
-    <a href="https://github.com/Shaad7?tab=repositories">
-        <img alt="Shaad's GitHub stats"  width="auto" src="https://github-readme-stats.vercel.app/api?username=Shaad7&count_private=true&show_icons=true&theme=github_dark">
-    </a>
-   
-   [![](https://activity-graph.herokuapp.com/graph?username=Shaad7&bg_color=000000&color=bdbdbd&line=2997ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   
-   [![Raihan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shaad7&bg_color=000000&color=c87414&line=0a9948&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   
-</p>
+### GitHub Activity 
 
-<h3 align="left">Languages & Tools:</h3> 
+<!--START_SECTION:activity-->
+
+### GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shaad7&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaad7&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages & Tools
 
 <p align="left">
     <a href="https://github.com/Shaad7/">
@@ -56,7 +54,7 @@
 
 
 
-<h3 align="left">Find Me On:</h3> 
+### Find Me On
 <p align="left">
     <a href="https://shaad7.github.io/">
         <img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
@@ -71,7 +69,7 @@
     </a>
 </p>
 
-<h3 align="left">Connect with me:</h3> 
+### Connect with me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/abdullah-al-shaad-5111a0190/">
