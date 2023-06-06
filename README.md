@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5293](https://github.com/hashicorp/vault/issues/5293) in [hashicorp/vault](https://github.com/hashicorp/vault)
+1. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
 2. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
-3. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
-4. 💪 Opened PR [#924](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/924) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. ❗ Opened issue [#923](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/923) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#5293](https://github.com/hashicorp/vault/issues/5293) in [hashicorp/vault](https://github.com/hashicorp/vault)
+4. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
+5. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
