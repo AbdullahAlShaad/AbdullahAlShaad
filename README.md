@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
+1. 💪 Opened PR [#71](https://github.com/bytebuilders/resource-model/pull/71) in [bytebuilders/resource-model](https://github.com/bytebuilders/resource-model)
 2. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
 3. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
-4. 🗣 Commented on [#5293](https://github.com/hashicorp/vault/issues/5293) in [hashicorp/vault](https://github.com/hashicorp/vault)
-5. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
+4. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
+5. 🗣 Commented on [#5293](https://github.com/hashicorp/vault/issues/5293) in [hashicorp/vault](https://github.com/hashicorp/vault)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
