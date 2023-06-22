@@ -18,9 +18,9 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 💪 Opened PR [#71](https://github.com/bytebuilders/resource-model/pull/71) in [bytebuilders/resource-model](https://github.com/bytebuilders/resource-model)
-3. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
+1. 💪 Opened PR [#4](https://github.com/bytebuilders/capi-netcfg/pull/4) in [bytebuilders/capi-netcfg](https://github.com/bytebuilders/capi-netcfg)
+2. 💪 Opened PR [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 💪 Opened PR [#71](https://github.com/bytebuilders/resource-model/pull/71) in [bytebuilders/resource-model](https://github.com/bytebuilders/resource-model)
 4. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
 5. 🗣 Commented on [#9420](https://github.com/hashicorp/vault/issues/9420) in [hashicorp/vault](https://github.com/hashicorp/vault)
 <!--END_SECTION:activity-->
