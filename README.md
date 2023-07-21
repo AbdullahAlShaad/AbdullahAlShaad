@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/kubeform/installer/pull/12) in [kubeform/installer](https://github.com/kubeform/installer)
-2. 💪 Opened PR [#9](https://github.com/kubeform/installer/pull/9) in [kubeform/installer](https://github.com/kubeform/installer)
-3. 💪 Opened PR [#4](https://github.com/bytebuilders/capi-netcfg/pull/4) in [bytebuilders/capi-netcfg](https://github.com/bytebuilders/capi-netcfg)
-4. 💪 Opened PR [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 💪 Opened PR [#71](https://github.com/bytebuilders/resource-model/pull/71) in [bytebuilders/resource-model](https://github.com/bytebuilders/resource-model)
+1. 💪 Opened PR [#328](https://github.com/bytebuilders/ui-wizards/pull/328) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+2. 💪 Opened PR [#23](https://github.com/bytebuilders/ui-samples/pull/23) in [bytebuilders/ui-samples](https://github.com/bytebuilders/ui-samples)
+3. 💪 Opened PR [#187](https://github.com/bytebuilders/installer/pull/187) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
+4. 💪 Opened PR [#12](https://github.com/kubeform/installer/pull/12) in [kubeform/installer](https://github.com/kubeform/installer)
+5. 💪 Opened PR [#9](https://github.com/kubeform/installer/pull/9) in [kubeform/installer](https://github.com/kubeform/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
