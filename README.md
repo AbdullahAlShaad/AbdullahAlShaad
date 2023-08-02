@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kompute/machine/pull/1) in [kompute/machine](https://github.com/kompute/machine)
-2. 💪 Opened PR [#213](https://github.com/rancher/machine/pull/213) in [rancher/machine](https://github.com/rancher/machine)
-3. 💪 Opened PR [#328](https://github.com/bytebuilders/ui-wizards/pull/328) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
-4. 💪 Opened PR [#23](https://github.com/bytebuilders/ui-samples/pull/23) in [bytebuilders/ui-samples](https://github.com/bytebuilders/ui-samples)
-5. 💪 Opened PR [#187](https://github.com/bytebuilders/installer/pull/187) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
+1. 💪 Opened PR [#1](https://github.com/cluster-api/docker-machine-operator/pull/1) in [cluster-api/docker-machine-operator](https://github.com/cluster-api/docker-machine-operator)
+2. 💪 Opened PR [#1](https://github.com/kompute/machine/pull/1) in [kompute/machine](https://github.com/kompute/machine)
+3. 💪 Opened PR [#213](https://github.com/rancher/machine/pull/213) in [rancher/machine](https://github.com/rancher/machine)
+4. 💪 Opened PR [#328](https://github.com/bytebuilders/ui-wizards/pull/328) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+5. 💪 Opened PR [#23](https://github.com/bytebuilders/ui-samples/pull/23) in [bytebuilders/ui-samples](https://github.com/bytebuilders/ui-samples)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
