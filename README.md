@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#709](https://github.com/kubedb/cli/pull/709) in [kubedb/cli](https://github.com/kubedb/cli)
-2. 💪 Opened PR [#44](https://github.com/appscode/grafana-dashboards/pull/44) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
-3. 💪 Opened PR [#1](https://github.com/cluster-api/installer/pull/1) in [cluster-api/installer](https://github.com/cluster-api/installer)
-4. 💪 Opened PR [#1](https://github.com/cluster-api/docker-machine-operator/pull/1) in [cluster-api/docker-machine-operator](https://github.com/cluster-api/docker-machine-operator)
-5. 💪 Opened PR [#1](https://github.com/kompute/machine/pull/1) in [kompute/machine](https://github.com/kompute/machine)
+1. 💪 Opened PR [#2](https://github.com/nurRiyad/ac-snacks/pull/2) in [nurRiyad/ac-snacks](https://github.com/nurRiyad/ac-snacks)
+2. ❗ Opened issue [#1](https://github.com/nurRiyad/ac-snacks/issues/1) in [nurRiyad/ac-snacks](https://github.com/nurRiyad/ac-snacks)
+3. 💪 Opened PR [#709](https://github.com/kubedb/cli/pull/709) in [kubedb/cli](https://github.com/kubedb/cli)
+4. 💪 Opened PR [#44](https://github.com/appscode/grafana-dashboards/pull/44) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
+5. 💪 Opened PR [#1](https://github.com/cluster-api/installer/pull/1) in [cluster-api/installer](https://github.com/cluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
