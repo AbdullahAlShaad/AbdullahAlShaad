@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/appscode/grafana-dashboards/pull/44) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
-2. 💪 Opened PR [#1](https://github.com/cluster-api/installer/pull/1) in [cluster-api/installer](https://github.com/cluster-api/installer)
-3. 💪 Opened PR [#1](https://github.com/cluster-api/docker-machine-operator/pull/1) in [cluster-api/docker-machine-operator](https://github.com/cluster-api/docker-machine-operator)
-4. 💪 Opened PR [#1](https://github.com/kompute/machine/pull/1) in [kompute/machine](https://github.com/kompute/machine)
-5. 💪 Opened PR [#213](https://github.com/rancher/machine/pull/213) in [rancher/machine](https://github.com/rancher/machine)
+1. 💪 Opened PR [#709](https://github.com/kubedb/cli/pull/709) in [kubedb/cli](https://github.com/kubedb/cli)
+2. 💪 Opened PR [#44](https://github.com/appscode/grafana-dashboards/pull/44) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
+3. 💪 Opened PR [#1](https://github.com/cluster-api/installer/pull/1) in [cluster-api/installer](https://github.com/cluster-api/installer)
+4. 💪 Opened PR [#1](https://github.com/cluster-api/docker-machine-operator/pull/1) in [cluster-api/docker-machine-operator](https://github.com/cluster-api/docker-machine-operator)
+5. 💪 Opened PR [#1](https://github.com/kompute/machine/pull/1) in [kompute/machine](https://github.com/kompute/machine)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
