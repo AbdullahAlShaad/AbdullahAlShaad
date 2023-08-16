@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/nurRiyad/ac-snacks/pull/2) in [nurRiyad/ac-snacks](https://github.com/nurRiyad/ac-snacks)
-2. ❗ Opened issue [#1](https://github.com/nurRiyad/ac-snacks/issues/1) in [nurRiyad/ac-snacks](https://github.com/nurRiyad/ac-snacks)
-3. 💪 Opened PR [#709](https://github.com/kubedb/cli/pull/709) in [kubedb/cli](https://github.com/kubedb/cli)
-4. 💪 Opened PR [#44](https://github.com/appscode/grafana-dashboards/pull/44) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
-5. 💪 Opened PR [#1](https://github.com/cluster-api/installer/pull/1) in [cluster-api/installer](https://github.com/cluster-api/installer)
+1. 🎉 Merged PR [#711](https://github.com/kubedb/cli/pull/711) in [kubedb/cli](https://github.com/kubedb/cli)
+2. 💪 Opened PR [#2](https://github.com/nurRiyad/ac-snacks/pull/2) in [nurRiyad/ac-snacks](https://github.com/nurRiyad/ac-snacks)
+3. ❗ Opened issue [#1](https://github.com/nurRiyad/ac-snacks/issues/1) in [nurRiyad/ac-snacks](https://github.com/nurRiyad/ac-snacks)
+4. 💪 Opened PR [#709](https://github.com/kubedb/cli/pull/709) in [kubedb/cli](https://github.com/kubedb/cli)
+5. 💪 Opened PR [#44](https://github.com/appscode/grafana-dashboards/pull/44) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
