@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#712](https://github.com/kubedb/cli/pull/712#issuecomment-1682195358) in [kubedb/cli](https://github.com/kubedb/cli)
-2. 🗣 Commented on [#713](https://github.com/kubedb/cli/pull/713#issuecomment-1682106969) in [kubedb/cli](https://github.com/kubedb/cli)
-3. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1681990411) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1681714516) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🎉 Merged PR [#711](https://github.com/kubedb/cli/pull/711) in [kubedb/cli](https://github.com/kubedb/cli)
+1. 🎉 Merged PR [#657](https://github.com/kubedb/installer/pull/657) in [kubedb/installer](https://github.com/kubedb/installer)
+2. 🎉 Merged PR [#542](https://github.com/kubedb/docs/pull/542) in [kubedb/docs](https://github.com/kubedb/docs)
+3. 🗣 Commented on [#712](https://github.com/kubedb/cli/pull/712#issuecomment-1682195358) in [kubedb/cli](https://github.com/kubedb/cli)
+4. 🗣 Commented on [#713](https://github.com/kubedb/cli/pull/713#issuecomment-1682106969) in [kubedb/cli](https://github.com/kubedb/cli)
+5. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1681990411) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
