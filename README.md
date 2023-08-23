@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#719](https://github.com/kubedb/cli/pull/719) in [kubedb/cli](https://github.com/kubedb/cli)
-2. 💪 Opened PR [#86](https://github.com/kubevault/apimachinery/pull/86) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
-3. 🎉 Merged PR [#712](https://github.com/kubedb/cli/pull/712) in [kubedb/cli](https://github.com/kubedb/cli)
-4. 🎉 Merged PR [#715](https://github.com/kubedb/cli/pull/715) in [kubedb/cli](https://github.com/kubedb/cli)
-5. 🗣 Commented on [#715](https://github.com/kubedb/cli/pull/715#issuecomment-1683589855) in [kubedb/cli](https://github.com/kubedb/cli)
+1. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1689665616) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1689529127) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1689522463) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 💪 Opened PR [#719](https://github.com/kubedb/cli/pull/719) in [kubedb/cli](https://github.com/kubedb/cli)
+5. 💪 Opened PR [#86](https://github.com/kubevault/apimachinery/pull/86) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
