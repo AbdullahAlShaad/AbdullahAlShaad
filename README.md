@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1698799414) in [rancher/machine](https://github.com/rancher/machine)
-2. ❗ Opened issue [#42586](https://github.com/rancher/rancher/issues/42586) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1697253967) in [rancher/machine](https://github.com/rancher/machine)
-4. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1697253175) in [rancher/machine](https://github.com/rancher/machine)
-5. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1697252590) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 💪 Opened PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
+2. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1698799414) in [rancher/machine](https://github.com/rancher/machine)
+3. ❗ Opened issue [#42586](https://github.com/rancher/rancher/issues/42586) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1697253967) in [rancher/machine](https://github.com/rancher/machine)
+5. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1697253175) in [rancher/machine](https://github.com/rancher/machine)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
