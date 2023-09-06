@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/kubevault/apimachinery/pull/86) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
-2. 🎉 Merged PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
-3. 💪 Opened PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
-4. 🎉 Merged PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
-5. 💪 Opened PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
+1. 💪 Opened PR [#4](https://github.com/kubeware/catalog/pull/4) in [kubeware/catalog](https://github.com/kubeware/catalog)
+2. 🎉 Merged PR [#86](https://github.com/kubevault/apimachinery/pull/86) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+3. 🎉 Merged PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
+4. 💪 Opened PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
+5. 🎉 Merged PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
