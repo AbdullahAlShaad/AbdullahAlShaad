@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
-2. 🎉 Merged PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
-3. 💪 Opened PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
-4. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1698799414) in [rancher/machine](https://github.com/rancher/machine)
-5. ❗ Opened issue [#42586](https://github.com/rancher/rancher/issues/42586) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🎉 Merged PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
+2. 💪 Opened PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
+3. 🎉 Merged PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
+4. 💪 Opened PR [#208](https://github.com/kubevault/installer/pull/208) in [kubevault/installer](https://github.com/kubevault/installer)
+5. 🗣 Commented on [#213](https://github.com/rancher/machine/pull/213#issuecomment-1698799414) in [rancher/machine](https://github.com/rancher/machine)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
