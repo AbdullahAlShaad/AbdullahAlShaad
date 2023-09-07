@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#422](https://github.com/kubevault/kubevault/pull/422) in [kubevault/kubevault](https://github.com/kubevault/kubevault)
-2. 💪 Opened PR [#328](https://github.com/appscode/blog/pull/328) in [appscode/blog](https://github.com/appscode/blog)
-3. 💪 Opened PR [#4](https://github.com/kubeware/catalog/pull/4) in [kubeware/catalog](https://github.com/kubeware/catalog)
-4. 🎉 Merged PR [#86](https://github.com/kubevault/apimachinery/pull/86) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
-5. 🎉 Merged PR [#210](https://github.com/kubevault/installer/pull/210) in [kubevault/installer](https://github.com/kubevault/installer)
+1. ❌ Closed PR [#4](https://github.com/kubeware/catalog/pull/4) in [kubeware/catalog](https://github.com/kubeware/catalog)
+2. 💪 Opened PR [#422](https://github.com/kubevault/kubevault/pull/422) in [kubevault/kubevault](https://github.com/kubevault/kubevault)
+3. 💪 Opened PR [#328](https://github.com/appscode/blog/pull/328) in [appscode/blog](https://github.com/appscode/blog)
+4. 💪 Opened PR [#4](https://github.com/kubeware/catalog/pull/4) in [kubeware/catalog](https://github.com/kubeware/catalog)
+5. 🎉 Merged PR [#86](https://github.com/kubevault/apimachinery/pull/86) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
