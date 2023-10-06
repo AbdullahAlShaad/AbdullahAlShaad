@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/kubevault/apimachinery/pull/89) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
-2. 💪 Opened PR [#6](https://github.com/kluster-api/docker-machine-operator/pull/6) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-3. ❌ Closed PR [#4](https://github.com/kubeware/catalog/pull/4) in [kubeware/catalog](https://github.com/kubeware/catalog)
-4. 💪 Opened PR [#422](https://github.com/kubevault/kubevault/pull/422) in [kubevault/kubevault](https://github.com/kubevault/kubevault)
-5. 💪 Opened PR [#328](https://github.com/appscode/blog/pull/328) in [appscode/blog](https://github.com/appscode/blog)
+1. ❌ Closed PR [#719](https://github.com/kubedb/cli/pull/719) in [kubedb/cli](https://github.com/kubedb/cli)
+2. 💪 Opened PR [#89](https://github.com/kubevault/apimachinery/pull/89) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+3. 💪 Opened PR [#6](https://github.com/kluster-api/docker-machine-operator/pull/6) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+4. ❌ Closed PR [#4](https://github.com/kubeware/catalog/pull/4) in [kubeware/catalog](https://github.com/kubeware/catalog)
+5. 💪 Opened PR [#422](https://github.com/kubevault/kubevault/pull/422) in [kubevault/kubevault](https://github.com/kubevault/kubevault)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
