@@ -34,25 +34,25 @@
 ### Languages & Tools
 
 <p align="left">
-    <a href="https://github.com/Shaad7/">
+    <a href="https://github.com/AbdullahAlShaad/">
         <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </a>
-    <a href="https://github.com/Shaad7/">
+    <a href="https://github.com/AbdullahAlShaad/">
         <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
-    <a href="https://github.com/Shaad7/">
+    <a href="https://github.com/AbdullahAlShaad/">
         <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     </a>
-    <a href="https://github.com/Shaad7/">
+    <a href="https://github.com/AbdullahAlShaad/">
         <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
     </a>
-    <a href="https://github.com/Shaad7/">
+    <a href="https://github.com/AbdullahAlShaad/">
         <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
     </a>                                                                                                                                     
-    <a href="https://github.com/Shaad7/">
+    <a href="https://github.com/AbdullahAlShaad/">
         <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
     </a>
-    <a href="https://github.com/raihankhan/">
+    <a href="https://github.com/AbdullahAlShaad/">
         <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />
     </a>
 </p>
@@ -62,7 +62,7 @@
 
 ### Find Me On
 <p align="left">
-    <a href="https://shaad7.github.io/">
+    <a href="https://abdullah.alshaad.github.io/">
         <img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
      <a href="https://codeforces.com/profile/shaad7">
         <img alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
