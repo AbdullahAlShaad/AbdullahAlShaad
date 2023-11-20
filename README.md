@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#731](https://github.com/kubedb/cli/pull/731) in [kubedb/cli](https://github.com/kubedb/cli)
-2. 💪 Opened PR [#9](https://github.com/kluster-api/docker-machine-operator/pull/9) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-3. 💪 Opened PR [#8](https://github.com/kluster-api/docker-machine-operator/pull/8) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-4. 💪 Opened PR [#16](https://github.com/kubeform/installer/pull/16) in [kubeform/installer](https://github.com/kubeform/installer)
-5. ❌ Closed PR [#719](https://github.com/kubedb/cli/pull/719) in [kubedb/cli](https://github.com/kubedb/cli)
+1. ❗ Opened issue [#1021](https://github.com/kubedb/project/issues/1021) in [kubedb/project](https://github.com/kubedb/project)
+2. 🎉 Merged PR [#731](https://github.com/kubedb/cli/pull/731) in [kubedb/cli](https://github.com/kubedb/cli)
+3. 💪 Opened PR [#9](https://github.com/kluster-api/docker-machine-operator/pull/9) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+4. 💪 Opened PR [#8](https://github.com/kluster-api/docker-machine-operator/pull/8) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+5. 💪 Opened PR [#16](https://github.com/kubeform/installer/pull/16) in [kubeform/installer](https://github.com/kubeform/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
