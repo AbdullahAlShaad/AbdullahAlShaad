@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1073](https://github.com/kubedb/apimachinery/pull/1073) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-2. ❗ Opened issue [#1021](https://github.com/kubedb/project/issues/1021) in [kubedb/project](https://github.com/kubedb/project)
-3. 🎉 Merged PR [#731](https://github.com/kubedb/cli/pull/731) in [kubedb/cli](https://github.com/kubedb/cli)
-4. 💪 Opened PR [#9](https://github.com/kluster-api/docker-machine-operator/pull/9) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-5. 💪 Opened PR [#8](https://github.com/kluster-api/docker-machine-operator/pull/8) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+1. 💪 Opened PR [#273](https://github.com/bytebuilders/installer/pull/273) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
+2. 💪 Opened PR [#1073](https://github.com/kubedb/apimachinery/pull/1073) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+3. ❗ Opened issue [#1021](https://github.com/kubedb/project/issues/1021) in [kubedb/project](https://github.com/kubedb/project)
+4. 🎉 Merged PR [#731](https://github.com/kubedb/cli/pull/731) in [kubedb/cli](https://github.com/kubedb/cli)
+5. 💪 Opened PR [#9](https://github.com/kluster-api/docker-machine-operator/pull/9) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
