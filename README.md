@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#274](https://github.com/bytebuilders/installer/pull/274) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
-2. 💪 Opened PR [#274](https://github.com/bytebuilders/installer/pull/274) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
-3. 💪 Opened PR [#5](https://github.com/bytebuilders/nats-logger/pull/5) in [bytebuilders/nats-logger](https://github.com/bytebuilders/nats-logger)
-4. 💪 Opened PR [#273](https://github.com/bytebuilders/installer/pull/273) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
-5. 💪 Opened PR [#1073](https://github.com/kubedb/apimachinery/pull/1073) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+1. ❌ Closed PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+2. 💪 Opened PR [#402](https://github.com/bytebuilders/ui-wizards/pull/402) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+3. 💪 Opened PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+4. 💪 Opened PR [#43](https://github.com/bytebuilders/ui-samples/pull/43) in [bytebuilders/ui-samples](https://github.com/bytebuilders/ui-samples)
+5. ❌ Closed PR [#274](https://github.com/bytebuilders/installer/pull/274) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
