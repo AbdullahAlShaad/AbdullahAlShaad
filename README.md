@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#278](https://github.com/bytebuilders/installer/pull/278) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
-2. ❌ Closed PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
-3. 💪 Opened PR [#402](https://github.com/bytebuilders/ui-wizards/pull/402) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
-4. 💪 Opened PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
-5. 💪 Opened PR [#43](https://github.com/bytebuilders/ui-samples/pull/43) in [bytebuilders/ui-samples](https://github.com/bytebuilders/ui-samples)
+1. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1859629233) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 💪 Opened PR [#278](https://github.com/bytebuilders/installer/pull/278) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
+3. ❌ Closed PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+4. 💪 Opened PR [#402](https://github.com/bytebuilders/ui-wizards/pull/402) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+5. 💪 Opened PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
