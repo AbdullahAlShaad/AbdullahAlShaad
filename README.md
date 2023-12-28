@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/go-zookeeper/zk/issues/40#issuecomment-1870383610) in [go-zookeeper/zk](https://github.com/go-zookeeper/zk)
-2. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1859629233) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 💪 Opened PR [#278](https://github.com/bytebuilders/installer/pull/278) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
-4. ❌ Closed PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
-5. 💪 Opened PR [#402](https://github.com/bytebuilders/ui-wizards/pull/402) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
+1. 🎉 Merged PR [#1](https://github.com/AbdullahAlShaad/AbdullahAlShaad/pull/1) in [AbdullahAlShaad/AbdullahAlShaad](https://github.com/AbdullahAlShaad/AbdullahAlShaad)
+2. 🗣 Commented on [#40](https://github.com/go-zookeeper/zk/issues/40#issuecomment-1870383610) in [go-zookeeper/zk](https://github.com/go-zookeeper/zk)
+3. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1859629233) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 💪 Opened PR [#278](https://github.com/bytebuilders/installer/pull/278) in [bytebuilders/installer](https://github.com/bytebuilders/installer)
+5. ❌ Closed PR [#401](https://github.com/bytebuilders/ui-wizards/pull/401) in [bytebuilders/ui-wizards](https://github.com/bytebuilders/ui-wizards)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
