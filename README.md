@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#595](https://github.com/kubedb/docs/pull/595) in [kubedb/docs](https://github.com/kubedb/docs)
-2. 💪 Opened PR [#92](https://github.com/kubevault/apimachinery/pull/92) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
-3. ❗ Opened issue [#1032](https://github.com/kubedb/project/issues/1032) in [kubedb/project](https://github.com/kubedb/project)
-4. 🎉 Merged PR [#1](https://github.com/AbdullahAlShaad/AbdullahAlShaad/pull/1) in [AbdullahAlShaad/AbdullahAlShaad](https://github.com/AbdullahAlShaad/AbdullahAlShaad)
-5. 🗣 Commented on [#40](https://github.com/go-zookeeper/zk/issues/40#issuecomment-1870383610) in [go-zookeeper/zk](https://github.com/go-zookeeper/zk)
+1. 🎉 Merged PR [#595](https://github.com/kubedb/docs/pull/595) in [kubedb/docs](https://github.com/kubedb/docs)
+2. 💪 Opened PR [#595](https://github.com/kubedb/docs/pull/595) in [kubedb/docs](https://github.com/kubedb/docs)
+3. 💪 Opened PR [#92](https://github.com/kubevault/apimachinery/pull/92) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+4. ❗ Opened issue [#1032](https://github.com/kubedb/project/issues/1032) in [kubedb/project](https://github.com/kubedb/project)
+5. 🎉 Merged PR [#1](https://github.com/AbdullahAlShaad/AbdullahAlShaad/pull/1) in [AbdullahAlShaad/AbdullahAlShaad](https://github.com/AbdullahAlShaad/AbdullahAlShaad)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
