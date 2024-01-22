@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#776](https://github.com/kubedb/installer/pull/776) in [kubedb/installer](https://github.com/kubedb/installer)
-2. 💪 Opened PR [#1104](https://github.com/kubedb/apimachinery/pull/1104) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-3. 🎉 Merged PR [#595](https://github.com/kubedb/docs/pull/595) in [kubedb/docs](https://github.com/kubedb/docs)
-4. 💪 Opened PR [#595](https://github.com/kubedb/docs/pull/595) in [kubedb/docs](https://github.com/kubedb/docs)
-5. 💪 Opened PR [#92](https://github.com/kubevault/apimachinery/pull/92) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+1. 🎉 Merged PR [#1040](https://github.com/kubedb/project/pull/1040) in [kubedb/project](https://github.com/kubedb/project)
+2. 💪 Opened PR [#1040](https://github.com/kubedb/project/pull/1040) in [kubedb/project](https://github.com/kubedb/project)
+3. 💪 Opened PR [#776](https://github.com/kubedb/installer/pull/776) in [kubedb/installer](https://github.com/kubedb/installer)
+4. 💪 Opened PR [#1104](https://github.com/kubedb/apimachinery/pull/1104) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+5. 🎉 Merged PR [#595](https://github.com/kubedb/docs/pull/595) in [kubedb/docs](https://github.com/kubedb/docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
