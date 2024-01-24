@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/nurRiyad/snacks-management/issues/12) in [nurRiyad/snacks-management](https://github.com/nurRiyad/snacks-management)
-2. 🎉 Merged PR [#819](https://github.com/kubedb/installer/pull/819) in [kubedb/installer](https://github.com/kubedb/installer)
-3. 🎉 Merged PR [#1040](https://github.com/kubedb/project/pull/1040) in [kubedb/project](https://github.com/kubedb/project)
-4. 💪 Opened PR [#1040](https://github.com/kubedb/project/pull/1040) in [kubedb/project](https://github.com/kubedb/project)
-5. 💪 Opened PR [#776](https://github.com/kubedb/installer/pull/776) in [kubedb/installer](https://github.com/kubedb/installer)
+1. 🎉 Merged PR [#824](https://github.com/kubedb/installer/pull/824) in [kubedb/installer](https://github.com/kubedb/installer)
+2. 💪 Opened PR [#1129](https://github.com/kubedb/apimachinery/pull/1129) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+3. ❗ Opened issue [#12](https://github.com/nurRiyad/snacks-management/issues/12) in [nurRiyad/snacks-management](https://github.com/nurRiyad/snacks-management)
+4. 🎉 Merged PR [#819](https://github.com/kubedb/installer/pull/819) in [kubedb/installer](https://github.com/kubedb/installer)
+5. 🎉 Merged PR [#1040](https://github.com/kubedb/project/pull/1040) in [kubedb/project](https://github.com/kubedb/project)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
