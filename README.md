@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1055](https://github.com/kubedb/project/issues/1055) in [kubedb/project](https://github.com/kubedb/project)
-2. ❗ Opened issue [#121](https://github.com/kubevault/project/issues/121) in [kubevault/project](https://github.com/kubevault/project)
-3. ❗ Opened issue [#120](https://github.com/kubevault/project/issues/120) in [kubevault/project](https://github.com/kubevault/project)
-4. ❗ Opened issue [#1054](https://github.com/kubedb/project/issues/1054) in [kubedb/project](https://github.com/kubedb/project)
-5. 💪 Opened PR [#60](https://github.com/appscode/grafana-dashboards/pull/60) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
+1. 💪 Opened PR [#11](https://github.com/kubedb/samples/pull/11) in [kubedb/samples](https://github.com/kubedb/samples)
+2. ❗ Opened issue [#1055](https://github.com/kubedb/project/issues/1055) in [kubedb/project](https://github.com/kubedb/project)
+3. ❗ Opened issue [#121](https://github.com/kubevault/project/issues/121) in [kubevault/project](https://github.com/kubevault/project)
+4. ❗ Opened issue [#120](https://github.com/kubevault/project/issues/120) in [kubevault/project](https://github.com/kubevault/project)
+5. ❗ Opened issue [#1054](https://github.com/kubedb/project/issues/1054) in [kubedb/project](https://github.com/kubedb/project)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
