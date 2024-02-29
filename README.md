@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/kubedb/samples/pull/11) in [kubedb/samples](https://github.com/kubedb/samples)
-2. ❗ Opened issue [#1055](https://github.com/kubedb/project/issues/1055) in [kubedb/project](https://github.com/kubedb/project)
-3. ❗ Opened issue [#121](https://github.com/kubevault/project/issues/121) in [kubevault/project](https://github.com/kubevault/project)
-4. ❗ Opened issue [#120](https://github.com/kubevault/project/issues/120) in [kubevault/project](https://github.com/kubevault/project)
-5. ❗ Opened issue [#1054](https://github.com/kubedb/project/issues/1054) in [kubedb/project](https://github.com/kubedb/project)
+1. 💪 Opened PR [#93](https://github.com/kubevault/apimachinery/pull/93) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+2. 💪 Opened PR [#11](https://github.com/kubedb/samples/pull/11) in [kubedb/samples](https://github.com/kubedb/samples)
+3. ❗ Opened issue [#1055](https://github.com/kubedb/project/issues/1055) in [kubedb/project](https://github.com/kubedb/project)
+4. ❗ Opened issue [#121](https://github.com/kubevault/project/issues/121) in [kubevault/project](https://github.com/kubevault/project)
+5. ❗ Opened issue [#120](https://github.com/kubevault/project/issues/120) in [kubevault/project](https://github.com/kubevault/project)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
