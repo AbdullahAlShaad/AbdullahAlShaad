@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/kubevault/apimachinery/pull/94) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
-2. 💪 Opened PR [#94](https://github.com/kubevault/apimachinery/pull/94) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
-3. 💪 Opened PR [#64](https://github.com/appscode/grafana-dashboards/pull/64) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
-4. 💪 Opened PR [#918](https://github.com/kubedb/installer/pull/918) in [kubedb/installer](https://github.com/kubedb/installer)
-5. 💪 Opened PR [#93](https://github.com/kubevault/apimachinery/pull/93) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+1. 💪 Opened PR [#55](https://github.com/appscode/alerts/pull/55) in [appscode/alerts](https://github.com/appscode/alerts)
+2. 🎉 Merged PR [#94](https://github.com/kubevault/apimachinery/pull/94) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+3. 💪 Opened PR [#94](https://github.com/kubevault/apimachinery/pull/94) in [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+4. 💪 Opened PR [#64](https://github.com/appscode/grafana-dashboards/pull/64) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
+5. 💪 Opened PR [#918](https://github.com/kubedb/installer/pull/918) in [kubedb/installer](https://github.com/kubedb/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
