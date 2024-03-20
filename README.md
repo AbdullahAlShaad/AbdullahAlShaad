@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#948](https://github.com/kubedb/installer/pull/948) in [kubedb/installer](https://github.com/kubedb/installer)
-2. 🎉 Merged PR [#947](https://github.com/kubedb/installer/pull/947) in [kubedb/installer](https://github.com/kubedb/installer)
-3. 💪 Opened PR [#947](https://github.com/kubedb/installer/pull/947) in [kubedb/installer](https://github.com/kubedb/installer)
-4. 💪 Opened PR [#405](https://github.com/appscode/blog/pull/405) in [appscode/blog](https://github.com/appscode/blog)
-5. 💪 Opened PR [#927](https://github.com/kubedb/installer/pull/927) in [kubedb/installer](https://github.com/kubedb/installer)
+1. 🎉 Merged PR [#948](https://github.com/kubedb/installer/pull/948) in [kubedb/installer](https://github.com/kubedb/installer)
+2. 💪 Opened PR [#948](https://github.com/kubedb/installer/pull/948) in [kubedb/installer](https://github.com/kubedb/installer)
+3. 🎉 Merged PR [#947](https://github.com/kubedb/installer/pull/947) in [kubedb/installer](https://github.com/kubedb/installer)
+4. 💪 Opened PR [#947](https://github.com/kubedb/installer/pull/947) in [kubedb/installer](https://github.com/kubedb/installer)
+5. 💪 Opened PR [#405](https://github.com/appscode/blog/pull/405) in [appscode/blog](https://github.com/appscode/blog)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
