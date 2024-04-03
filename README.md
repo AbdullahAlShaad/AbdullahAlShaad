@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kubedb/zookeeper-dump-go/pull/1) in [kubedb/zookeeper-dump-go](https://github.com/kubedb/zookeeper-dump-go)
-2. 🎉 Merged PR [#948](https://github.com/kubedb/installer/pull/948) in [kubedb/installer](https://github.com/kubedb/installer)
-3. 💪 Opened PR [#948](https://github.com/kubedb/installer/pull/948) in [kubedb/installer](https://github.com/kubedb/installer)
-4. 🎉 Merged PR [#947](https://github.com/kubedb/installer/pull/947) in [kubedb/installer](https://github.com/kubedb/installer)
-5. 💪 Opened PR [#947](https://github.com/kubedb/installer/pull/947) in [kubedb/installer](https://github.com/kubedb/installer)
+1. ❗ Opened issue [#4865](https://github.com/kubernetes/org/issues/4865) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 💪 Opened PR [#1](https://github.com/kubedb/zookeeper-dump-go/pull/1) in [kubedb/zookeeper-dump-go](https://github.com/kubedb/zookeeper-dump-go)
+3. 🎉 Merged PR [#948](https://github.com/kubedb/installer/pull/948) in [kubedb/installer](https://github.com/kubedb/installer)
+4. 💪 Opened PR [#948](https://github.com/kubedb/installer/pull/948) in [kubedb/installer](https://github.com/kubedb/installer)
+5. 🎉 Merged PR [#947](https://github.com/kubedb/installer/pull/947) in [kubedb/installer](https://github.com/kubedb/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
