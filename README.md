@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#634](https://github.com/kubedb/docs/pull/634) in [kubedb/docs](https://github.com/kubedb/docs)
-2. 🎉 Merged PR [#1204](https://github.com/kubedb/apimachinery/pull/1204) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-3. 💪 Opened PR [#10](https://github.com/kluster-api/docker-machine-operator/pull/10) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-4. 🎉 Merged PR [#981](https://github.com/kubedb/installer/pull/981) in [kubedb/installer](https://github.com/kubedb/installer)
-5. 💪 Opened PR [#12](https://github.com/kluster-api/capi-config/pull/12) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+1. 💪 Opened PR [#53](https://github.com/yannh/redis-dump-go/pull/53) in [yannh/redis-dump-go](https://github.com/yannh/redis-dump-go)
+2. 🎉 Merged PR [#9](https://github.com/kubedb/redis-dump-go/pull/9) in [kubedb/redis-dump-go](https://github.com/kubedb/redis-dump-go)
+3. 💪 Opened PR [#9](https://github.com/kubedb/redis-dump-go/pull/9) in [kubedb/redis-dump-go](https://github.com/kubedb/redis-dump-go)
+4. 💪 Opened PR [#634](https://github.com/kubedb/docs/pull/634) in [kubedb/docs](https://github.com/kubedb/docs)
+5. 🎉 Merged PR [#1204](https://github.com/kubedb/apimachinery/pull/1204) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
