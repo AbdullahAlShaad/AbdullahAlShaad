@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/yannh/redis-dump-go/pull/53) in [yannh/redis-dump-go](https://github.com/yannh/redis-dump-go)
-2. 🎉 Merged PR [#9](https://github.com/kubedb/redis-dump-go/pull/9) in [kubedb/redis-dump-go](https://github.com/kubedb/redis-dump-go)
-3. 💪 Opened PR [#9](https://github.com/kubedb/redis-dump-go/pull/9) in [kubedb/redis-dump-go](https://github.com/kubedb/redis-dump-go)
-4. 💪 Opened PR [#634](https://github.com/kubedb/docs/pull/634) in [kubedb/docs](https://github.com/kubedb/docs)
-5. 🎉 Merged PR [#1204](https://github.com/kubedb/apimachinery/pull/1204) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+1. 🎉 Merged PR [#1040](https://github.com/kubedb/installer/pull/1040) in [kubedb/installer](https://github.com/kubedb/installer)
+2. 🎉 Merged PR [#1207](https://github.com/kubedb/apimachinery/pull/1207) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+3. 💪 Opened PR [#1207](https://github.com/kubedb/apimachinery/pull/1207) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+4. 🎉 Merged PR [#1039](https://github.com/kubedb/installer/pull/1039) in [kubedb/installer](https://github.com/kubedb/installer)
+5. 💪 Opened PR [#1039](https://github.com/kubedb/installer/pull/1039) in [kubedb/installer](https://github.com/kubedb/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
