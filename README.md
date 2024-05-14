@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kluster-api/capi-ops-manager/pull/1) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
-2. 💪 Opened PR [#4](https://github.com/kluster-api/installer/pull/4) in [kluster-api/installer](https://github.com/kluster-api/installer)
-3. ❗ Opened issue [#4978](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4978) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#11](https://github.com/kluster-api/docker-machine-operator/pull/11) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-5. 💪 Opened PR [#66](https://github.com/appscode/alerts/pull/66) in [appscode/alerts](https://github.com/appscode/alerts)
+1. 🎉 Merged PR [#1](https://github.com/kluster-api/govanityurls/pull/1) in [kluster-api/govanityurls](https://github.com/kluster-api/govanityurls)
+2. 💪 Opened PR [#1](https://github.com/kluster-api/govanityurls/pull/1) in [kluster-api/govanityurls](https://github.com/kluster-api/govanityurls)
+3. 💪 Opened PR [#1](https://github.com/kluster-api/capi-ops-manager/pull/1) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
+4. 💪 Opened PR [#4](https://github.com/kluster-api/installer/pull/4) in [kluster-api/installer](https://github.com/kluster-api/installer)
+5. ❗ Opened issue [#4978](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4978) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
