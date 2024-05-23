@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/kluster-api/docker-machine-operator/pull/11) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-2. 💪 Opened PR [#375](https://github.com/appscode-cloud/installer/pull/375) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
-3. 🎉 Merged PR [#5](https://github.com/kluster-api/installer/pull/5) in [kluster-api/installer](https://github.com/kluster-api/installer)
-4. 💪 Opened PR [#5](https://github.com/kluster-api/installer/pull/5) in [kluster-api/installer](https://github.com/kluster-api/installer)
-5. 🎉 Merged PR [#1](https://github.com/kluster-api/govanityurls/pull/1) in [kluster-api/govanityurls](https://github.com/kluster-api/govanityurls)
+1. 🎉 Merged PR [#23](https://github.com/kubedb/samples/pull/23) in [kubedb/samples](https://github.com/kubedb/samples)
+2. 💪 Opened PR [#23](https://github.com/kubedb/samples/pull/23) in [kubedb/samples](https://github.com/kubedb/samples)
+3. 🎉 Merged PR [#11](https://github.com/kluster-api/docker-machine-operator/pull/11) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+4. 💪 Opened PR [#375](https://github.com/appscode-cloud/installer/pull/375) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+5. 🎉 Merged PR [#5](https://github.com/kluster-api/installer/pull/5) in [kluster-api/installer](https://github.com/kluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
