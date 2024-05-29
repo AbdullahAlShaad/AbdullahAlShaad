@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/appscode/grafana-dashboards/pull/79) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
-2. 💪 Opened PR [#2](https://github.com/kluster-api/capi-ops-manager/pull/2) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
-3. 🎉 Merged PR [#23](https://github.com/kubedb/samples/pull/23) in [kubedb/samples](https://github.com/kubedb/samples)
-4. 💪 Opened PR [#23](https://github.com/kubedb/samples/pull/23) in [kubedb/samples](https://github.com/kubedb/samples)
-5. 🎉 Merged PR [#11](https://github.com/kluster-api/docker-machine-operator/pull/11) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+1. 💪 Opened PR [#1076](https://github.com/kubedb/installer/pull/1076) in [kubedb/installer](https://github.com/kubedb/installer)
+2. 💪 Opened PR [#79](https://github.com/appscode/grafana-dashboards/pull/79) in [appscode/grafana-dashboards](https://github.com/appscode/grafana-dashboards)
+3. 💪 Opened PR [#2](https://github.com/kluster-api/capi-ops-manager/pull/2) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
+4. 🎉 Merged PR [#23](https://github.com/kubedb/samples/pull/23) in [kubedb/samples](https://github.com/kubedb/samples)
+5. 💪 Opened PR [#23](https://github.com/kubedb/samples/pull/23) in [kubedb/samples](https://github.com/kubedb/samples)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
