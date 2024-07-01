@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/kluster-api/capi-config/pull/13) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
-2. ❌ Closed PR [#7](https://github.com/kluster-api/installer/pull/7) in [kluster-api/installer](https://github.com/kluster-api/installer)
-3. 💪 Opened PR [#8](https://github.com/kluster-api/installer/pull/8) in [kluster-api/installer](https://github.com/kluster-api/installer)
-4. 💪 Opened PR [#7](https://github.com/kluster-api/installer/pull/7) in [kluster-api/installer](https://github.com/kluster-api/installer)
-5. 🎉 Merged PR [#3](https://github.com/kluster-api/capi-ops-manager/pull/3) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
+1. 💪 Opened PR [#12](https://github.com/kluster-api/docker-machine-operator/pull/12) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+2. 💪 Opened PR [#13](https://github.com/kluster-api/capi-config/pull/13) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+3. ❌ Closed PR [#7](https://github.com/kluster-api/installer/pull/7) in [kluster-api/installer](https://github.com/kluster-api/installer)
+4. 💪 Opened PR [#8](https://github.com/kluster-api/installer/pull/8) in [kluster-api/installer](https://github.com/kluster-api/installer)
+5. 💪 Opened PR [#7](https://github.com/kluster-api/installer/pull/7) in [kluster-api/installer](https://github.com/kluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
