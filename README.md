@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/kluster-api/docker-machine-operator/pull/13) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-2. 💪 Opened PR [#13](https://github.com/kluster-api/docker-machine-operator/pull/13) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-3. 🎉 Merged PR [#12](https://github.com/kluster-api/docker-machine-operator/pull/12) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
-4. 🎉 Merged PR [#13](https://github.com/kluster-api/capi-config/pull/13) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
-5. 💪 Opened PR [#12](https://github.com/kluster-api/docker-machine-operator/pull/12) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+1. 🎉 Merged PR [#8](https://github.com/kluster-api/installer/pull/8) in [kluster-api/installer](https://github.com/kluster-api/installer)
+2. 🎉 Merged PR [#6](https://github.com/kluster-api/installer/pull/6) in [kluster-api/installer](https://github.com/kluster-api/installer)
+3. 🎉 Merged PR [#13](https://github.com/kluster-api/docker-machine-operator/pull/13) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+4. 💪 Opened PR [#13](https://github.com/kluster-api/docker-machine-operator/pull/13) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+5. 🎉 Merged PR [#12](https://github.com/kluster-api/docker-machine-operator/pull/12) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
