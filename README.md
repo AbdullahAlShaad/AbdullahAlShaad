@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kluster-api/capi-ops-manager/pull/2) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
-2. 🎉 Merged PR [#15](https://github.com/kubedb/redis-init-docker/pull/15) in [kubedb/redis-init-docker](https://github.com/kubedb/redis-init-docker)
-3. 🎉 Merged PR [#8](https://github.com/kluster-api/installer/pull/8) in [kluster-api/installer](https://github.com/kluster-api/installer)
-4. 🎉 Merged PR [#6](https://github.com/kluster-api/installer/pull/6) in [kluster-api/installer](https://github.com/kluster-api/installer)
-5. 🎉 Merged PR [#13](https://github.com/kluster-api/docker-machine-operator/pull/13) in [kluster-api/docker-machine-operator](https://github.com/kluster-api/docker-machine-operator)
+1. 🎉 Merged PR [#14](https://github.com/kluster-api/capi-config/pull/14) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+2. 💪 Opened PR [#14](https://github.com/kluster-api/capi-config/pull/14) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+3. 🎉 Merged PR [#2](https://github.com/kluster-api/capi-ops-manager/pull/2) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
+4. 🎉 Merged PR [#15](https://github.com/kubedb/redis-init-docker/pull/15) in [kubedb/redis-init-docker](https://github.com/kubedb/redis-init-docker)
+5. 🎉 Merged PR [#8](https://github.com/kluster-api/installer/pull/8) in [kluster-api/installer](https://github.com/kluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
