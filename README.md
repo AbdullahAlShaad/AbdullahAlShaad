@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#438](https://github.com/kubevault/kubevault/pull/438) in [kubevault/kubevault](https://github.com/kubevault/kubevault)
-2. 🎉 Merged PR [#1077](https://github.com/kubedb/installer/pull/1077) in [kubedb/installer](https://github.com/kubedb/installer)
-3. 🎉 Merged PR [#15](https://github.com/kluster-api/capi-config/pull/15) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
-4. 💪 Opened PR [#15](https://github.com/kluster-api/capi-config/pull/15) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
-5. 🎉 Merged PR [#14](https://github.com/kluster-api/capi-config/pull/14) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+1. 💪 Opened PR [#124](https://github.com/kubedb/db-client-go/pull/124) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+2. 💪 Opened PR [#438](https://github.com/kubevault/kubevault/pull/438) in [kubevault/kubevault](https://github.com/kubevault/kubevault)
+3. 🎉 Merged PR [#1077](https://github.com/kubedb/installer/pull/1077) in [kubedb/installer](https://github.com/kubedb/installer)
+4. 🎉 Merged PR [#15](https://github.com/kluster-api/capi-config/pull/15) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+5. 💪 Opened PR [#15](https://github.com/kluster-api/capi-config/pull/15) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
