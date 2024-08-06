@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/kubedb/db-client-go/pull/125) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
-2. 🎉 Merged PR [#124](https://github.com/kubedb/db-client-go/pull/124) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
-3. 💪 Opened PR [#124](https://github.com/kubedb/db-client-go/pull/124) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
-4. 💪 Opened PR [#438](https://github.com/kubevault/kubevault/pull/438) in [kubevault/kubevault](https://github.com/kubevault/kubevault)
-5. 🎉 Merged PR [#1077](https://github.com/kubedb/installer/pull/1077) in [kubedb/installer](https://github.com/kubedb/installer)
+1. 🎉 Merged PR [#658](https://github.com/kubedb/docs/pull/658) in [kubedb/docs](https://github.com/kubedb/docs)
+2. 💪 Opened PR [#658](https://github.com/kubedb/docs/pull/658) in [kubedb/docs](https://github.com/kubedb/docs)
+3. 🎉 Merged PR [#125](https://github.com/kubedb/db-client-go/pull/125) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+4. 🎉 Merged PR [#124](https://github.com/kubedb/db-client-go/pull/124) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+5. 💪 Opened PR [#124](https://github.com/kubedb/db-client-go/pull/124) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
