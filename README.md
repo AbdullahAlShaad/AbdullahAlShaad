@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/appscode-cloud/gke-app/pull/1) in [appscode-cloud/gke-app](https://github.com/appscode-cloud/gke-app)
-2. 🎉 Merged PR [#658](https://github.com/kubedb/docs/pull/658) in [kubedb/docs](https://github.com/kubedb/docs)
-3. 💪 Opened PR [#658](https://github.com/kubedb/docs/pull/658) in [kubedb/docs](https://github.com/kubedb/docs)
-4. 🎉 Merged PR [#125](https://github.com/kubedb/db-client-go/pull/125) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
-5. 🎉 Merged PR [#124](https://github.com/kubedb/db-client-go/pull/124) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+1. 🎉 Merged PR [#12](https://github.com/kluster-api/installer/pull/12) in [kluster-api/installer](https://github.com/kluster-api/installer)
+2. 💪 Opened PR [#12](https://github.com/kluster-api/installer/pull/12) in [kluster-api/installer](https://github.com/kluster-api/installer)
+3. 🎉 Merged PR [#11](https://github.com/kluster-api/installer/pull/11) in [kluster-api/installer](https://github.com/kluster-api/installer)
+4. 💪 Opened PR [#11](https://github.com/kluster-api/installer/pull/11) in [kluster-api/installer](https://github.com/kluster-api/installer)
+5. 🎉 Merged PR [#5](https://github.com/kluster-api/capi-ops-manager/pull/5) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
