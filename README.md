@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1298](https://github.com/kubedb/apimachinery/pull/1298) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-2. 🎉 Merged PR [#1229](https://github.com/kubedb/installer/pull/1229) in [kubedb/installer](https://github.com/kubedb/installer)
-3. 🎉 Merged PR [#12](https://github.com/kluster-api/installer/pull/12) in [kluster-api/installer](https://github.com/kluster-api/installer)
-4. 💪 Opened PR [#12](https://github.com/kluster-api/installer/pull/12) in [kluster-api/installer](https://github.com/kluster-api/installer)
-5. 🎉 Merged PR [#11](https://github.com/kluster-api/installer/pull/11) in [kluster-api/installer](https://github.com/kluster-api/installer)
+1. 🗣 Commented on [#1263](https://github.com/kubedb/apimachinery/pull/1263#issuecomment-2330945385) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+2. 🎉 Merged PR [#1298](https://github.com/kubedb/apimachinery/pull/1298) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+3. 🎉 Merged PR [#1229](https://github.com/kubedb/installer/pull/1229) in [kubedb/installer](https://github.com/kubedb/installer)
+4. 🎉 Merged PR [#12](https://github.com/kluster-api/installer/pull/12) in [kluster-api/installer](https://github.com/kluster-api/installer)
+5. 💪 Opened PR [#12](https://github.com/kluster-api/installer/pull/12) in [kluster-api/installer](https://github.com/kluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
