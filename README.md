@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/kluster-api/capi-config/pull/18) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
-2. 💪 Opened PR [#18](https://github.com/kluster-api/capi-config/pull/18) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
-3. 🗣 Commented on [#1263](https://github.com/kubedb/apimachinery/pull/1263#issuecomment-2330945385) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-4. 🎉 Merged PR [#1298](https://github.com/kubedb/apimachinery/pull/1298) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-5. 🎉 Merged PR [#1229](https://github.com/kubedb/installer/pull/1229) in [kubedb/installer](https://github.com/kubedb/installer)
+1. 💪 Opened PR [#1](https://github.com/kluster-api/capi-deployer/pull/1) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
+2. 🎉 Merged PR [#18](https://github.com/kluster-api/capi-config/pull/18) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+3. 💪 Opened PR [#18](https://github.com/kluster-api/capi-config/pull/18) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+4. 🗣 Commented on [#1263](https://github.com/kubedb/apimachinery/pull/1263#issuecomment-2330945385) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+5. 🎉 Merged PR [#1298](https://github.com/kubedb/apimachinery/pull/1298) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
