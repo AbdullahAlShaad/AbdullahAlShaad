@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#670](https://github.com/kubedb/docs/pull/670) in [kubedb/docs](https://github.com/kubedb/docs)
-2. 💪 Opened PR [#501](https://github.com/appscode-cloud/installer/pull/501) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
-3. 🎉 Merged PR [#128](https://github.com/kubedb/db-client-go/pull/128) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
-4. 🎉 Merged PR [#15](https://github.com/kluster-api/installer/pull/15) in [kluster-api/installer](https://github.com/kluster-api/installer)
-5. 💪 Opened PR [#9](https://github.com/appscode-cloud/nats-logger/pull/9) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
+1. 🎉 Merged PR [#679](https://github.com/kubedb/docs/pull/679) in [kubedb/docs](https://github.com/kubedb/docs)
+2. 🎉 Merged PR [#670](https://github.com/kubedb/docs/pull/670) in [kubedb/docs](https://github.com/kubedb/docs)
+3. 💪 Opened PR [#501](https://github.com/appscode-cloud/installer/pull/501) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+4. 🎉 Merged PR [#128](https://github.com/kubedb/db-client-go/pull/128) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+5. 🎉 Merged PR [#15](https://github.com/kluster-api/installer/pull/15) in [kluster-api/installer](https://github.com/kluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
