@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/kluster-api/capi-ops-manager/pull/9) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
-2. 💪 Opened PR [#9](https://github.com/kluster-api/capi-ops-manager/pull/9) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
-3. 🎉 Merged PR [#683](https://github.com/kubedb/docs/pull/683) in [kubedb/docs](https://github.com/kubedb/docs)
-4. 🎉 Merged PR [#671](https://github.com/kubedb/docs/pull/671) in [kubedb/docs](https://github.com/kubedb/docs)
-5. 🎉 Merged PR [#19](https://github.com/kluster-api/capi-config/pull/19) in [kluster-api/capi-config](https://github.com/kluster-api/capi-config)
+1. 🎉 Merged PR [#16](https://github.com/kluster-api/installer/pull/16) in [kluster-api/installer](https://github.com/kluster-api/installer)
+2. 💪 Opened PR [#16](https://github.com/kluster-api/installer/pull/16) in [kluster-api/installer](https://github.com/kluster-api/installer)
+3. 🎉 Merged PR [#9](https://github.com/kluster-api/capi-ops-manager/pull/9) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
+4. 💪 Opened PR [#9](https://github.com/kluster-api/capi-ops-manager/pull/9) in [kluster-api/capi-ops-manager](https://github.com/kluster-api/capi-ops-manager)
+5. 🎉 Merged PR [#683](https://github.com/kubedb/docs/pull/683) in [kubedb/docs](https://github.com/kubedb/docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
