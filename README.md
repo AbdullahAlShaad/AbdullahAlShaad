@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1316](https://github.com/kubedb/apimachinery/pull/1316) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-2. 🎉 Merged PR [#1](https://github.com/kubedb/gomemcache/pull/1) in [kubedb/gomemcache](https://github.com/kubedb/gomemcache)
-3. 🎉 Merged PR [#1](https://github.com/kluster-api/capi-deployer/pull/1) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
-4. 🎉 Merged PR [#16](https://github.com/kluster-api/installer/pull/16) in [kluster-api/installer](https://github.com/kluster-api/installer)
-5. 💪 Opened PR [#16](https://github.com/kluster-api/installer/pull/16) in [kluster-api/installer](https://github.com/kluster-api/installer)
+1. 💪 Opened PR [#105](https://github.com/appscode-cloud/resource-model/pull/105) in [appscode-cloud/resource-model](https://github.com/appscode-cloud/resource-model)
+2. 🎉 Merged PR [#1316](https://github.com/kubedb/apimachinery/pull/1316) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+3. 🎉 Merged PR [#1](https://github.com/kubedb/gomemcache/pull/1) in [kubedb/gomemcache](https://github.com/kubedb/gomemcache)
+4. 🎉 Merged PR [#1](https://github.com/kluster-api/capi-deployer/pull/1) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
+5. 🎉 Merged PR [#16](https://github.com/kluster-api/installer/pull/16) in [kluster-api/installer](https://github.com/kluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
