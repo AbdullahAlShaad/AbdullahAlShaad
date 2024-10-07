@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/appscode-cloud/nats-logger/pull/9) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
-2. 💪 Opened PR [#105](https://github.com/appscode-cloud/resource-model/pull/105) in [appscode-cloud/resource-model](https://github.com/appscode-cloud/resource-model)
-3. 🎉 Merged PR [#1316](https://github.com/kubedb/apimachinery/pull/1316) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-4. 🎉 Merged PR [#1](https://github.com/kubedb/gomemcache/pull/1) in [kubedb/gomemcache](https://github.com/kubedb/gomemcache)
-5. 🎉 Merged PR [#1](https://github.com/kluster-api/capi-deployer/pull/1) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
+1. 💪 Opened PR [#10](https://github.com/appscode-cloud/nats-logger/pull/10) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
+2. ❌ Closed PR [#9](https://github.com/appscode-cloud/nats-logger/pull/9) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
+3. 💪 Opened PR [#105](https://github.com/appscode-cloud/resource-model/pull/105) in [appscode-cloud/resource-model](https://github.com/appscode-cloud/resource-model)
+4. 🎉 Merged PR [#1316](https://github.com/kubedb/apimachinery/pull/1316) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+5. 🎉 Merged PR [#1](https://github.com/kubedb/gomemcache/pull/1) in [kubedb/gomemcache](https://github.com/kubedb/gomemcache)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
