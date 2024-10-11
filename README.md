@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kluster-api/capi-deployer/pull/2) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
-2. 💪 Opened PR [#2](https://github.com/kluster-api/capi-deployer/pull/2) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
-3. 💪 Opened PR [#10](https://github.com/appscode-cloud/nats-logger/pull/10) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
-4. ❌ Closed PR [#9](https://github.com/appscode-cloud/nats-logger/pull/9) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
-5. 💪 Opened PR [#105](https://github.com/appscode-cloud/resource-model/pull/105) in [appscode-cloud/resource-model](https://github.com/appscode-cloud/resource-model)
+1. 🗣 Commented on [#142](https://github.com/kubedb/db-client-go/pull/142#issuecomment-2404812228) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+2. 🎉 Merged PR [#2](https://github.com/kluster-api/capi-deployer/pull/2) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
+3. 💪 Opened PR [#2](https://github.com/kluster-api/capi-deployer/pull/2) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
+4. 💪 Opened PR [#10](https://github.com/appscode-cloud/nats-logger/pull/10) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
+5. ❌ Closed PR [#9](https://github.com/appscode-cloud/nats-logger/pull/9) in [appscode-cloud/nats-logger](https://github.com/appscode-cloud/nats-logger)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
