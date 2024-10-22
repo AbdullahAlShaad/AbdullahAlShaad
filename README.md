@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#397](https://github.com/appscode/static-assets/pull/397) in [appscode/static-assets](https://github.com/appscode/static-assets)
-2. 🎉 Merged PR [#1319](https://github.com/kubedb/apimachinery/pull/1319) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-3. 🗣 Commented on [#142](https://github.com/kubedb/db-client-go/pull/142#issuecomment-2404812228) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
-4. 🎉 Merged PR [#2](https://github.com/kluster-api/capi-deployer/pull/2) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
-5. 💪 Opened PR [#2](https://github.com/kluster-api/capi-deployer/pull/2) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
+1. 🎉 Merged PR [#1321](https://github.com/kubedb/apimachinery/pull/1321) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+2. 💪 Opened PR [#397](https://github.com/appscode/static-assets/pull/397) in [appscode/static-assets](https://github.com/appscode/static-assets)
+3. 🎉 Merged PR [#1319](https://github.com/kubedb/apimachinery/pull/1319) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+4. 🗣 Commented on [#142](https://github.com/kubedb/db-client-go/pull/142#issuecomment-2404812228) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+5. 🎉 Merged PR [#2](https://github.com/kluster-api/capi-deployer/pull/2) in [kluster-api/capi-deployer](https://github.com/kluster-api/capi-deployer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
