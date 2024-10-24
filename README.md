@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#399](https://github.com/appscode/static-assets/pull/399) in [appscode/static-assets](https://github.com/appscode/static-assets)
-2. 🎉 Merged PR [#1321](https://github.com/kubedb/apimachinery/pull/1321) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-3. 💪 Opened PR [#397](https://github.com/appscode/static-assets/pull/397) in [appscode/static-assets](https://github.com/appscode/static-assets)
-4. 🎉 Merged PR [#1319](https://github.com/kubedb/apimachinery/pull/1319) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-5. 🗣 Commented on [#142](https://github.com/kubedb/db-client-go/pull/142#issuecomment-2404812228) in [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+1. ❗ Opened issue [#21](https://github.com/nurRiyad/snacks-management/issues/21) in [nurRiyad/snacks-management](https://github.com/nurRiyad/snacks-management)
+2. 💪 Opened PR [#399](https://github.com/appscode/static-assets/pull/399) in [appscode/static-assets](https://github.com/appscode/static-assets)
+3. 🎉 Merged PR [#1321](https://github.com/kubedb/apimachinery/pull/1321) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+4. 💪 Opened PR [#397](https://github.com/appscode/static-assets/pull/397) in [appscode/static-assets](https://github.com/appscode/static-assets)
+5. 🎉 Merged PR [#1319](https://github.com/kubedb/apimachinery/pull/1319) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
