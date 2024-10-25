@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/nurRiyad/snacks-management/issues/21) in [nurRiyad/snacks-management](https://github.com/nurRiyad/snacks-management)
-2. 💪 Opened PR [#399](https://github.com/appscode/static-assets/pull/399) in [appscode/static-assets](https://github.com/appscode/static-assets)
-3. 🎉 Merged PR [#1321](https://github.com/kubedb/apimachinery/pull/1321) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
-4. 💪 Opened PR [#397](https://github.com/appscode/static-assets/pull/397) in [appscode/static-assets](https://github.com/appscode/static-assets)
-5. 🎉 Merged PR [#1319](https://github.com/kubedb/apimachinery/pull/1319) in [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+1. 🎉 Merged PR [#543](https://github.com/appscode-cloud/installer/pull/543) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+2. 💪 Opened PR [#543](https://github.com/appscode-cloud/installer/pull/543) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+3. 🎉 Merged PR [#702](https://github.com/kubedb/docs/pull/702) in [kubedb/docs](https://github.com/kubedb/docs)
+4. 🎉 Merged PR [#18](https://github.com/kluster-api/installer/pull/18) in [kluster-api/installer](https://github.com/kluster-api/installer)
+5. 💪 Opened PR [#18](https://github.com/kluster-api/installer/pull/18) in [kluster-api/installer](https://github.com/kluster-api/installer)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
