@@ -18,11 +18,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/appscode/static-assets/pull/400) in [appscode/static-assets](https://github.com/appscode/static-assets)
-2. 🎉 Merged PR [#543](https://github.com/appscode-cloud/installer/pull/543) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
-3. 💪 Opened PR [#543](https://github.com/appscode-cloud/installer/pull/543) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
-4. 🎉 Merged PR [#702](https://github.com/kubedb/docs/pull/702) in [kubedb/docs](https://github.com/kubedb/docs)
-5. 🎉 Merged PR [#18](https://github.com/kluster-api/installer/pull/18) in [kluster-api/installer](https://github.com/kluster-api/installer)
+1. 💪 Opened PR [#401](https://github.com/appscode/static-assets/pull/401) in [appscode/static-assets](https://github.com/appscode/static-assets)
+2. 💪 Opened PR [#400](https://github.com/appscode/static-assets/pull/400) in [appscode/static-assets](https://github.com/appscode/static-assets)
+3. 🎉 Merged PR [#543](https://github.com/appscode-cloud/installer/pull/543) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+4. 💪 Opened PR [#543](https://github.com/appscode-cloud/installer/pull/543) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+5. 🎉 Merged PR [#702](https://github.com/kubedb/docs/pull/702) in [kubedb/docs](https://github.com/kubedb/docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
